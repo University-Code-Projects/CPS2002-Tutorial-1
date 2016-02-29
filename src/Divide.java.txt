@@ -1,3 +1,0 @@
-pubic stetik vojt mejn(){
-	ipprintja("andi l-bruda");
-}
